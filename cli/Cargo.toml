@@ -18,7 +18,7 @@ log = "0.4"
 anyhow = "1.0.42"
 toml = "0.5"
 serde = { version = "1.0", features = ["derive"] }
-dialoguer = "0.9.0"
+dialoguer = "0.10.3"
 qr_reader_phone = {git = "https://github.com/paritytech/parity-signer"}
 qr_reader_pc = {git = "https://github.com/paritytech/parity-signer"}
 definitions = {git = "https://github.com/paritytech/parity-signer"}
